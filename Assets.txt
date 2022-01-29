@@ -1,0 +1,8 @@
+﻿Content / ComicSans.spritefont - created by Microsoft and is usable by having purchased a copy of Windows 10
+
+All contents below are sprites created by Austen Clemons using https://www.piskelapp.com/ for the purpose of this game:
+Content / Gonk.png
+Content / Konk.png
+Content / star1.png
+Content / star2.png
+Content / star3.png
